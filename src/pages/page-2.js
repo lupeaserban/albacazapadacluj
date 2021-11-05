@@ -6,9 +6,11 @@ import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <Seo title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
+    <Seo title="Contact"/>
+    <h1>Contact</h1>
+    <p>Telefon: 0264-591669</p>
+    <p>Email: gradi.albacazapada@yahoo.com</p>
+    <p>Adresa: Strada Ion Creanga, nr.4-6, Cluj Napoca</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
