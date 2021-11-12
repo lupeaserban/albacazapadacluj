@@ -16,7 +16,7 @@ const IndexPage = () => (
       alt="Gradinita Alba Ca Zapada"
       style={{ marginBottom: `1.45rem` }}
       />
-    <h2>In data de 5 noiembrie Grădinița cu P.P "Albă ca Zăpada" Cluj-Napoca are rata de vaccinare de <span style={{ color: "green" }}>56%</span>.</h2>
+    <h2>In data de 12 noiembrie 2021 Grădinița cu P. P. "Albă ca Zăpada" Cluj-Napoca, deține rata de vaccinare de <span style={{ color: "green" }}>62%</span>.</h2>
     <h3>
       <Link to="/page-2/">Contact</Link> <br />
       {/* <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
